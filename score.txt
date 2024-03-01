@@ -1,0 +1,16 @@
+Player: Tamerlan, Score: 7, Difficulty: Hard
+Player: Player3, Score: 55, Difficulty: Easy
+Player: Player5, Score: 35, Difficulty: Medium
+Player: Player1, Score: 72, Difficulty: Easy
+Player: Player3, Score: 23, Difficulty: Hard
+Player: Player7, Score: 41, Difficulty: Medium
+Player: Player2, Score: 74, Difficulty: Easy
+Player: Player13, Score: 59, Difficulty: Easy
+Player: Player23, Score: 38, Difficulty: Medium
+Player: Player6, Score: 15, Difficulty: Hard
+Player: Player2, Score: 26, Difficulty: Hard
+Player: Player6, Score: 18, Difficulty: Hard
+Player: Player4, Score: 19, Difficulty: Easy
+Player: Player3, Score: 25, Difficulty: Medium
+Player: Player8, Score: 20, Difficulty: Hard
+Player: Tamerlan, Score: 9, Difficulty: Hard
